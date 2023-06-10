@@ -1,3 +1,4 @@
+---Query used to combine columns from the various tables---
 
 SELECT 
     orders.order_id,
