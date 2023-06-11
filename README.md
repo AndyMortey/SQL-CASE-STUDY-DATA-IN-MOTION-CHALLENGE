@@ -25,5 +25,3 @@ By answering these questions successfully, an individual is expected to be expos
 9. For each order, determine if it was ‘Expensive’ (total over 300), ‘Affordable’ (total over 100), or ‘Cheap’.
 10. Find customers who have ordered the product with the highest price. 
 
-
-The project can as well be viewed on Medium using this link 
