@@ -25,3 +25,7 @@ By answering these questions successfully, an individual is expected to be expos
 9. For each order, determine if it was ‘Expensive’ (total over 300), ‘Affordable’ (total over 100), or ‘Cheap’.
 10. Find customers who have ordered the product with the highest price. 
 
+## Reference:
+This is the link to the challenge; https://d-i-motion.com/lessons/customer-orders-analysis/ . 
+
+Copyright: Kedeisha Bryan on Linkedin. (https://d-i-motion.com/launching-soon/bryank/)
